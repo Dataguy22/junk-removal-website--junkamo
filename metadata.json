@@ -1,0 +1,7 @@
+{
+  "name": "Junkamo - Premium Junk Removal",
+  "description": "A minimalist, conversion-focused web application for a high-end junk removal business featuring a smart quote estimator powered by Gemini.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
